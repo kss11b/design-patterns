@@ -1,0 +1,11 @@
+/home/kyle/repos/design-patterns/ch-2/bin/Debug/netcoreapp3.1/ch-2
+/home/kyle/repos/design-patterns/ch-2/bin/Debug/netcoreapp3.1/ch-2.deps.json
+/home/kyle/repos/design-patterns/ch-2/bin/Debug/netcoreapp3.1/ch-2.runtimeconfig.json
+/home/kyle/repos/design-patterns/ch-2/bin/Debug/netcoreapp3.1/ch-2.runtimeconfig.dev.json
+/home/kyle/repos/design-patterns/ch-2/bin/Debug/netcoreapp3.1/ch-2.dll
+/home/kyle/repos/design-patterns/ch-2/bin/Debug/netcoreapp3.1/ch-2.pdb
+/home/kyle/repos/design-patterns/ch-2/obj/Debug/netcoreapp3.1/ch-2.csprojAssemblyReference.cache
+/home/kyle/repos/design-patterns/ch-2/obj/Debug/netcoreapp3.1/ch-2.AssemblyInfoInputs.cache
+/home/kyle/repos/design-patterns/ch-2/obj/Debug/netcoreapp3.1/ch-2.AssemblyInfo.cs
+/home/kyle/repos/design-patterns/ch-2/obj/Debug/netcoreapp3.1/ch-2.dll
+/home/kyle/repos/design-patterns/ch-2/obj/Debug/netcoreapp3.1/ch-2.pdb
